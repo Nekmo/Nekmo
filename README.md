@@ -1,4 +1,4 @@
-<img align="left" src="https://avatars.githubusercontent.com/u/740106?v=4">
+<img align="left" style="width: 140px" src="https://avatars.githubusercontent.com/u/740106?v=4">
 
 ### Hi there 👋
 
